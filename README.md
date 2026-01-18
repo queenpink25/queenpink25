@@ -58,11 +58,11 @@ class Asasira:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=queenpink25&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=queenpink25&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <!-- Animated Line -->
