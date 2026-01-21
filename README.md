@@ -9,37 +9,32 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
-class Asasira {
-    constructor() {
-        this.name = "Asasira Queen Pinklen";
-        this.location = "Uganda";
-        this.education = "Software Engineering @ Victoria University, K'la";
-        this.role = "Software Engineer";
-    }
-    
-    
-    passions() {
+```python
+class Christine:
+    def __init__(self):
+        self.name = "Christine Namatovu"
+        self.location = "Uganda"
+        self.education = "Computer Science @ Mbarara University of Science and Technology"
+        self.role = "Computer Scientist"
+        
+    def passions(self):
         return [
             "Artificial Intelligence",
             "Data Security",
             "Mobile Development",
             "Web Development",
             "IoT & Embedded Systems"
-        ];
-    }
+        ]
     
-    currentWork() {
-        return "Building Secure & Scalable Systems";
-    }
+    def current_work(self):
+        return "Building AI-integrated Mobile & Web Apps"
     
-    openTo() {
-        return ["Collaborations", "Job Opportunities", "New Technologies"];
-    }
+    def open_to(self):
+        return ["Collaborations", "Job Opportunities", "New Technologies"]
     
-    motto() {
-        return "Empowering the next generation of innovators";
-    }
+    def motto(self):
+        return "Empowering the next generation of innovators"
+
 }
 ```
 
