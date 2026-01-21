@@ -10,31 +10,37 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-```python
-class Asasira:
-    def __init__(self):
-        self.name = "Asasira Queen Pinklen"
-        self.location = "Uganda"
-        self.education = "Software Engineering @ Victoria  University,K'la"
-        self.role = "Software Engineer"
-        
-    def passions(self):
+class Asasira {
+    constructor() {
+        this.name = "Asasira Queen Pinklen";
+        this.location = "Uganda";
+        this.education = "Software Engineering @ Victoria University, K'la";
+        this.role = "Software Engineer";
+    }
+    
+    
+    passions() {
         return [
             "Artificial Intelligence",
             "Data Security",
             "Mobile Development",
             "Web Development",
             "IoT & Embedded Systems"
-        ]
+        ];
+    }
     
-    def current_work(self):
-        return "Building Secure & Scalable Systems"
+    currentWork() {
+        return "Building Secure & Scalable Systems";
+    }
     
-    def open_to(self):
-        return ["Collaborations", "Job Opportunities", "New Technologies"]
+    openTo() {
+        return ["Collaborations", "Job Opportunities", "New Technologies"];
+    }
     
-    def motto(self):
-        return "Empowering the next generation of innovators"
+    motto() {
+        return "Empowering the next generation of innovators";
+    }
+}
 ```
 
 <!-- Animated Line -->
