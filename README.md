@@ -10,32 +10,24 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 ```python
-class Christine:
-    def __init__(self):
-        self.name = "Christine Namatovu"
-        self.location = "Uganda"
-        self.education = "Computer Science @ Mbarara University of Science and Technology"
-        self.role = "Computer Scientist"
-        
-    def passions(self):
-        return [
-            "Artificial Intelligence",
-            "Data Security",
-            "Mobile Development",
-            "Web Development",
-            "IoT & Embedded Systems"
-        ]
-    
-    def current_work(self):
-        return "Building AI-integrated Mobile & Web Apps"
-    
-    def open_to(self):
-        return ["Collaborations", "Job Opportunities", "New Technologies"]
-    
-    def motto(self):
-        return "Empowering the next generation of innovators"
 
-}
+class Asasira:
+    def __init__(self):
+        self.name = "Asasira Queen Pinklen"
+        self.role = "Aspirant Software Engineer"
+        self.location = "Uganda"
+
+    def work(self):
+        return "Writing code, fixing bugs, shipping anyway"
+
+    def motto(self):
+        return [
+            "I don’t always test my code.",
+            "But when I do…",
+            "It’s in production.",
+            "You’re welcome."
+        ]
+
 ```
 
 <!-- Animated Line -->
