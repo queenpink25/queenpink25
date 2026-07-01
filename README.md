@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Bouncy Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Halo,+It's+RoyalCoder" alt="Halo, It's Asasira" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Halo,+It's+Asasira" alt="Halo, It's Asasira" />
 
 </div>
 
