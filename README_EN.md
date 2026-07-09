@@ -1,4 +1,4 @@
-# Namatovu Christine - Data Scientist & Security Specialist
+# Asasira -  Security Specialist
 
 <div align="center">
 
